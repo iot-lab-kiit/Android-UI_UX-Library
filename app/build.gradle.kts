@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.androidui_uxlibrary"
+    namespace = "in.iot.lab.androidui_uxlibrary"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.androidui_uxlibrary"
+        applicationId = "in.iot.lab.androidui_uxlibrary"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

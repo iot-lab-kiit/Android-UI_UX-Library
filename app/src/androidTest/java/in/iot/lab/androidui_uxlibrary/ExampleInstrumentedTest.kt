@@ -1,4 +1,4 @@
-package com.example.androidui_uxlibrary
+package `in`.iot.lab.androidui_uxlibrary
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

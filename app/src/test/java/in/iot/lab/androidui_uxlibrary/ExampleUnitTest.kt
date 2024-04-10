@@ -1,4 +1,4 @@
-package com.example.androidui_uxlibrary
+package `in`.iot.lab.androidui_uxlibrary
 
 import org.junit.Test
 

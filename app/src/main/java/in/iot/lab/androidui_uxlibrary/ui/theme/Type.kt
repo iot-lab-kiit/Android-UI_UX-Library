@@ -1,4 +1,4 @@
-package com.example.androidui_uxlibrary.ui.theme
+package `in`.iot.lab.androidui_uxlibrary.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
