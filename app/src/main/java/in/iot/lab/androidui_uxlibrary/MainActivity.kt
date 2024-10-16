@@ -1,10 +1,10 @@
 package `in`.iot.lab.androidui_uxlibrary
 
+import MyScreen
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
-import `in`.iot.lab.androidui_uxlibrary.ui.MyScreen
 import `in`.iot.lab.androidui_uxlibrary.ui.theme.AndroidUI_UXLibraryTheme
 
 class MainActivity : ComponentActivity() {
