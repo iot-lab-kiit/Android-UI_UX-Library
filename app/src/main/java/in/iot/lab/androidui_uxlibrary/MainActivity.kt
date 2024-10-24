@@ -1,6 +1,6 @@
 package `in`.iot.lab.androidui_uxlibrary
 
-import MyScreen
+import BottomNavBarScreen
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -13,7 +13,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             AndroidUI_UXLibraryTheme {
-                MyScreen()
+                BottomNavBarScreen()
             }
         }
     }

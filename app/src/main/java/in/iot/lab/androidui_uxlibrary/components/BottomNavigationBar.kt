@@ -56,6 +56,6 @@ data class BottomNavigationItem(
 @Composable
 fun PreviewMyScreen() {
     AndroidUI_UXLibraryTheme {
-        MyScreen()
+        BottomNavBarScreen()
     }
 }

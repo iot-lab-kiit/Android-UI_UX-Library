@@ -11,7 +11,7 @@ import androidx.compose.runtime.setValue
 import `in`.iot.lab.androidui_uxlibrary.ui.theme.AndroidUI_UXLibraryTheme
 
 @Composable
-fun MyScreen() {
+fun BottomNavBarScreen() {
     val items = listOf(
         BottomNavigationItem(Icons.Default.Home, "Home"),
         BottomNavigationItem(Icons.Default.Settings, "Settings"),
